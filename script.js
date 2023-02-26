@@ -41,8 +41,9 @@ smile.addEventListener("click", function() {
 	"It's hard to love yourself sometimes, but you have to know that you're worth it❤️💭",  
 	"The only way to change the world is to make a little noise🌍🔊", 
 	"The only thing that will make you happy is being happy with who you are 😊🎶",
-	"The beauty of life is that it is so unpredictable tomorrow gonna be better 🌅💫", 
-	"just want to inspire💭"];
+	"The beauty of life is that it is so unpredictable tomorrow gonna be better 🌅💫",
+	"just inspire them !💭",
+	"Solitude over toxicity 🦋"];
 	const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 	quote.innerHTML = randomQuote;
 	quote.style.display = "block";
